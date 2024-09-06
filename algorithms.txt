@@ -1,0 +1,15 @@
+start.
+0) Wake up
+1) Get out of bed
+2) Walk into kitchen
+3) Take orange
+4) Peel orange
+5) Eat orange
+6) Walk into bathroom
+7) Apply toothpaste to toothbrush bristles
+8) Brush teeth with toothbrush (bristle part)
+9) Finish brushing teeth after two minutes
+10) Rinse mouth and toothbrush
+11) Walk out of bathroom
+12) Enter room with personal computer
+13) Move mouse to wake computer from sleep mode
