@@ -1,15 +1,30 @@
 start.
 0) Wake up
 1) Get out of bed
-2) Walk into kitchen
-3) Take orange
-4) Peel orange
-5) Eat orange
-6) Walk into bathroom
-7) Apply toothpaste to toothbrush bristles
-8) Brush teeth with toothbrush (bristle part)
-9) Finish brushing teeth after two minutes
-10) Rinse mouth and toothbrush
-11) Walk out of bathroom
-12) Enter room with personal computer
-13) Move mouse to wake computer from sleep mode
+2) Go downstairs
+3) Walk into kitchen
+4) Take orange
+5) Peel orange
+6) Take slices out of orange
+7) Eat orange
+8) Walk upstairs
+9) Walk into bathroom
+10) Take toothbrush out of holder
+11) Turn cold water handle on sink
+12) Take toothpaste
+13) If no toothpaste, put toothbrush bristles under water. If toothpaste, apply to bristles and put back down.
+14) Wet toothbrush
+15) Brush bottom row of teeth for 60 seconds with toothbrush bristles
+16) After, brush top row of teeth for 60 seconds with toothbrush bristles
+17) After, brush front of teeth for 15 seconds with toothbrush bristles
+18) After, spit toothpaste out and wet toothbrush again
+19) If toothpaste in toothbrush, wet until no more toothpaste, then put toothbrush in holder
+20) Walk out of bathroom
+21) Walk into room
+22) Sit in desk chair
+23) Move mouse to wake computer from sleep mode
+24) Once computer awakened, sign in to Windows
+25) Once signed in, open Google Chrome
+26) Navigate to Wikipedia
+27) View main page.
+28) If articles are interesting, middle click to open them in new tabs for future reading. If no articles are interestinng, close page.
