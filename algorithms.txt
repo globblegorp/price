@@ -28,3 +28,40 @@ start.
 26) Navigate to Wikipedia
 27) View main page.
 28) If articles are interesting, middle click to open them in new tabs for future reading. If no articles are interestinng, close page.
+
+Pseudocode
+wake up
+  get out of bed
+  go downstairs
+  walk into kitchen
+  take orange
+  peel orange
+  take slices out of orange
+  eat orange
+  if orange finished, walk upstairs
+    walk into bathroom
+    take toothbrush out of holder
+    turn cold water handle on sink
+    take toothpaste 
+    if no toothpaste, apply toothpaste and put down
+    if toothpaste, put toothbrush back down
+    wet toothbrush bristles under water
+    brush bottom row of teeth for 60 seconds with toothbrush bristles
+    brush top row of teeth for 60 seconds with toothbrush bristles
+    brush front of teeth for 15 seconds with toothbrush bristles
+    spit toothpaste out and wet toothbrush again
+    if toothpaste in toothbrush, wet until no more toothpaste
+    put toothbrush in holder
+   walk out of bathroom
+   walk into bedroom
+   sit at desk
+   move mouse to wake computer from sleep mode
+   sign in to Windows
+   once signed in, open Google Chrome
+   navigate to Wikipedia
+   view main page
+   if articles are interesting
+     middle click to open in new tabs
+     read articles one by one
+   if articles are not interesting
+     close wikipedia
